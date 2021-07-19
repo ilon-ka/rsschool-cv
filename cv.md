@@ -23,3 +23,18 @@ Online courses RS School (Front-end) (Jule 2021 - ..) - to be continue))
 Ltd “TruckLife”, Minsk - Chief Accountant (2015- now)
 Ltd “Irminsavto”, Minsk - Chief Accountant (2013-2015)
 Ltd “Irminsavto”, Minsk - Accountant (2010-2013)
+
+**Skills**
+*Languages:*
+Native Russian
+Pre-Intermediate English (A2)
+*Driving license:* category B
+
+**Personal qualities**
+*Willingness to learn
+*Can work well and work hard
+*Know what is responsibility 
+*Keep deadlines successfully
+*Long-term work experience in one place (5-6 years)
+*Peaceful, Positive, Diplomatic
+*no bad habits
