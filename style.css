@@ -1,0 +1,51 @@
+.wrapper{
+  display: flex; 
+  margin: 0 auto;
+  width: 100%;
+  max-width: 850px;
+  justify-content: space-between;
+  border-style: outset;
+}
+  
+.left-column{
+  background: radial-gradient(at top, #FEFFFF, #D2B48C);
+  width: 30%;
+  padding: 25px;
+}
+
+h1, h2{
+  font-family: Algerian;
+}
+  
+.h3-right, h1, h2{
+  text-align: center;
+  color: darkred;
+}
+
+.right-column{
+  width: 70%;
+  padding: 25px;
+  background-color: hsl(50, 20%, 50%, .1);
+  text-align: justify;
+}
+
+.qualification{
+  line-height: 30px;
+}
+
+img{
+  display:block;
+  margin:auto;
+  max-width: 100%
+}
+
+footer{
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.rs-link{
+  width: 30%; 
+}
