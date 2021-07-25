@@ -1,1 +1,1 @@
-https://ilon-ka.github.io/rsschool-cv/cv
+https://ilon-ka.github.io/rsschool-cv/
