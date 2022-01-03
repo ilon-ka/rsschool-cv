@@ -1,51 +1,87 @@
-.wrapper{
-  display: flex; 
+.wrapper {
+  display: flex;
   margin: 0 auto;
   width: 100%;
   max-width: 850px;
   justify-content: space-between;
   border-style: outset;
 }
-  
-.left-column{
-  background: radial-gradient(at top, #FEFFFF, #D2B48C);
+
+.left-column {
+  background: radial-gradient(at top, #feffff, #d2b48c);
   width: 30%;
   padding: 25px;
 }
 
-h1, h2{
+h1,
+h3 {
   font-family: Algerian;
 }
-  
-.h3-right, h1, h2{
+
+h3 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 21px;
+}
+
+.h2-right,
+h1,
+h3 {
   text-align: center;
   color: darkred;
 }
 
-.right-column{
+.right-column {
   width: 70%;
   padding: 25px;
-  background-color: hsl(50, 20%, 50%, .1);
+  background-color: hsl(50, 20%, 50%, 0.1);
   text-align: justify;
 }
 
-.qualification{
+.qualification {
   line-height: 30px;
 }
 
-img{
-  display:block;
-  margin:auto;
-  max-width: 100%
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
 }
 
-footer{
-  padding-top: 50px;
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-item {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover { color: red; }
+
+footer {
+  padding-top: 20px;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 }
 
-.rs-link{
-  width: 30%; 
+.rs-link {
+  width: 30%;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-around;
+}
+
+html {
+  scroll-behavior: smooth;
 }
