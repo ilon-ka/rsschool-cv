@@ -1,24 +1,25 @@
 ﻿# Kuzmiankova Ilona
 
 **Personal Information**
-19th, April, 1987
+19th, April
 35 Kozlova Street, Minsk, 220037, Belarus
 Single
 Driving license category B
 
 **Job Objective**
-Junior Front-end Developer. 
-Extremely motivated for career change goal. I have achieved certain achievements in one field (accounting) and try myself in a new one. 
-Programming is my new love. Let's see if I can repeat the path and become a Senior in 3 years?)
+Junior Front-end Developer.
+I have achieved certain achievements in one field (accounting) and
+try myself in a new one. I would like to change my career to another
+field - front-end developer.
 
 **Education**
-Gomel middle School of General education, physics and mathematics class (1994-2005)
-Gomel State Technical University named after P.O. Sukhoi, manager-economist (2005-2010)
+Gomel middle School of General education, physics and mathematics class
+Gomel State Technical University named after P.O. Sukhoi, manager-economist
 
 **Qualifications**
-Online courses JetBrains Academy (HTML, CSS) (June 2021)
-Online courses Code Basics (HTML, CSS) (Jule 2021)
-Online courses RS School (Front-end) (Jule 2021 - now) - to be continue))
+Online courses JetBrains Academy (HTML, CSS) (2021)
+Online courses Code Basics (HTML, CSS) (2021)
+Online courses RS School (Front-end) - to be continue))
 
 **Work Experience**
 Ltd “TruckLife”, Minsk - Chief Accountant (2015- now)
